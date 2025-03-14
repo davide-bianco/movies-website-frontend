@@ -5,15 +5,13 @@
 
 This website was hosted on [Netlify](https://www.netlify.com) and is NOT currently online.
 
-https://www.quentertain.com
-
 > Discover information about your favourite movies!
 
 ### Features
 
 - Made with [React](https://reactjs.org/) and [Ant Design](https://ant.design/)
 - Deployed on [Netlify](https://www.netlify.com/)
-- Connects to [this](https://github.com/xDavide9/Quentertain-backend) backend
+- Connects to [this](https://github.com/xDavide9/movies-website-backend) backend
 - Discover movies based on Popularity, Year and Genre
 - Search a movie based on its title
 - Get details on those movies
